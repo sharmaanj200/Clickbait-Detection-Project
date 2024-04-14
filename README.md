@@ -6,5 +6,5 @@ Clickbait Detection in online social media.
 
   
 ## Future Scope:
-Developing better approaches for better clickbait detection models.
+Developing approaches for better clickbait detection models.
 
